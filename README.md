@@ -1,8 +1,13 @@
 <h1 align= "center">Olá! Sou João vitor  👋</h1>
-- 🔍 Estou a procura de um estágio.
-- 🌱 Estou estudando CSS3,HTML5,JavaScript.
-- 📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
-- 😄 Pronomes: Ele/dele
+<hr>
+
+👉  🔍 Estou a procura de um estágio.
+
+👉  🌱 Estou estudando CSS3,HTML5,JavaScript.
+
+👉  📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
+
+👉  😄 Pronomes: Ele/dele
  <!--corpo de cima-->
  <hr>
 <div align="center">
