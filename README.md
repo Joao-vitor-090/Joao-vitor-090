@@ -4,6 +4,7 @@
 - 📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
 - 😄 Pronomes: Ele/dele
  <!--corpo de cima-->
+ <hr>
 <div align="center">
   <a href="https://github.com/Joao-vitor-090">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-vitor-090&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
