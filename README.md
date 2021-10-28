@@ -3,7 +3,7 @@
 
 👉  🔍 Estou a procura de um estágio.
 
-👉  🌱 Estou estudando CSS3,HTML5,JavaScript.
+👉  🌱 Estou estudando CSS3,HTML5,JavaScript e PHP.
 
 👉  📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
 
