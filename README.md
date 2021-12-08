@@ -1,9 +1,9 @@
 <h1 align= "center">Olá! Sou João vitor  👋</h1>
 <hr>
 
-👉  🔍 Estou a procura de um estágio.
+👉  🔍 Estagiario em Web Designer.
 
-👉  🌱 Estou estudando CSS3,HTML5,JavaScript e PHP.
+👉  🌱 Estou estudando JavaScript,PHP, MySQL e PostgreSQL.
 
 👉  📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
 
