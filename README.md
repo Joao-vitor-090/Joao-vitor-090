@@ -1,13 +1,12 @@
-<h1 align= "center">Olá! Sou João vitor  👋</h1>
+<h1 align="center">Hello! I'm João Vitor 👋</h1>
 <hr>
 
-👉  🔍 Estagiario em Web Designer.
+👉 🔍 Intern in Web Designer.
 
-👉  🌱 Estou estudando JavaScript,PHP, MySQL e PostgreSQL.
+👉 🌱 I'm studying Python and PHP.
 
-👉  📚 Ja possuo conhecimentos em C++,JavaScript,CSS3,HTML5,Git e Photoshop.
+👉 📚 I already have knowledge in C++,JavaScript,CSS3,HTML5,Git,PHP and Photoshop.
 
-👉  😄 Pronomes: Ele/dele
  <!--corpo de cima-->
  <hr>
 <div align="center">
@@ -17,11 +16,15 @@
    <hr>
    </div>
   <!--gráficos de infos-->
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="Joao-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+   <div style="display: inline_block" align="center"><br>
+   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img  align="center" alt="Joao-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="Joao-PPOSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+   <img align="center" alt="Joao-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Joao-PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <!--Fim dos gráficos-->
    <hr>
   <div style="display: inline_block" align="center">
