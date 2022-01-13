@@ -3,9 +3,9 @@
 
 👉 🔍 Intern in Web Designer.
 
-👉 🌱 I'm studying Python and PHP.
+👉 🌱 I'm studying Javascript and React.
 
-👉 📚 I already have knowledge in C++,JavaScript,CSS3,HTML5,Git,PHP and Photoshop.
+👉 📚 I already have knowledge in C++, C, python, JavaScript, CSS3, HTML5, Git, PHP and Photoshop.
 
  <!--corpo de cima-->
  <hr>
