@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm João Vitor 👋</h1>
 <hr>
 
-👉 🔍 Intern in Web Designer.
+👉 🔍 Web Designer.
 
 👉 🌱 I'm studying Javascript and C#.
 
