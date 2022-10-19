@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm João Vitor 👋</h1>
 <hr>
 
-👉 🔍 Web Designer.
+👉 🔍 Junior Developer.
 
-👉 🌱 I'm studying Javascript and C#.
+👉 🌱 I'm studying React and C# .net.
 
 👉 📚 I already have knowledge in C++, C,C#, python, JavaScript, CSS3, HTML5, Git, PHP and Photoshop.
 
