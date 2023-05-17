@@ -1,11 +1,11 @@
-<h1 align="center">Hello! I'm João Vitor 👋</h1>
+<h1 align="center">Hello! I'm João Vitor 👋</h1s>
 <hr>
 
 👉 🔍 Junior Developer.
 
 👉 🌱 I'm studying React and C# .net.
 
-👉 📚 I already have knowledge in C++, C,C#, python, JavaScript, CSS3, HTML5, Git, PHP and Photoshop.
+👉 📚 I already have knowledge in  C#, .net, Javascript, SQL, Css3, HTML5, Git, React.js, Postman, Wordpress, e Photoshop.
 
 
   <!--gráficos de infos-->
@@ -13,8 +13,6 @@
    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img  align="center" alt="Joao-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img align="center" alt="Joao-PPOSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
    <img align="center" alt="Joao-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Joao-PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
